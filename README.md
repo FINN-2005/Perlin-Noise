@@ -1,4 +1,4 @@
-# PerlinNoiseVisualizer
+# Perlin Noise
 
 Mathematical implementation and visualization of 1D and 2D Perlin noise using Python and Pygame.
 
@@ -11,7 +11,7 @@ This project demonstrates the mathematical foundation and graphical rendering of
 ## Installation
 
 ```bash
-pip install git+https://github.com/FINN-2005/pygame_template.git
+pip install git+https://github.com/FINN-2005/Perlin-Noise.git
 ```
 
 ## Usage
