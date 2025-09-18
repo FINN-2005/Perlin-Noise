@@ -13,6 +13,11 @@ This project demonstrates the mathematical foundation and graphical rendering of
 ```bash
 pip install git+https://github.com/FINN-2005/Perlin-Noise.git
 ```
+(optional)
+```bash
+pip install pygame-ce
+```
+
 
 ## Usage
 
