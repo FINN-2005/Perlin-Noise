@@ -11,7 +11,7 @@ This project demonstrates the mathematical foundation and graphical rendering of
 ## Installation
 
 ```bash
-pip install git+https://github.com/FINN-2005/Perlin-Noise.git
+git clone https://github.com/FINN-2005/Perlin-Noise.git
 ```
 (optional)
 ```bash
